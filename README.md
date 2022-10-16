@@ -8,7 +8,7 @@ This project aims to perform data analysis on Iris flower classes in a garden an
 This Jupyter Notebook assesses the quality of the Iris data, and constructs Supervised Machine Learning models such as Decision Tree, Logistic Regression and K-Nearest Neighbours models that are capable of making predictions on a new Iris flower data. It also contains codes that perform Unsupervised Learning such as identifying data clusters using K-Means Clustering and using Cosine-Similarity to measure the "similarity" between data points. A Logistic Regression model is generated and stored in the ```model``` folder within this notebook, which will be used by the programme created in ```app.py```.
 
 ### app.py
-This Python script contains a setup of a Plotly Dash dashboard application. There are 3 main sections in this application.
+This Python script contains a setup of a Plotly Dash dashboard application. Presently the application is best-fitted for usage on Google Chrome browser on a laptop or computer monitor display. There are 3 main sections in this application.
 | Section | Description |
 | :------------- |:-------------|
 | Data Exploration | View the proportion of the Iris classes, and inspect for missing data in the dataset |
