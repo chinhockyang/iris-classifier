@@ -21,7 +21,7 @@ warnings.filterwarnings("ignore")
 
 # create dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MINTY])
-# server = app.server
+server = app.server
 
 # ************************************ DATA PARAMETERS ************************************ #
 
