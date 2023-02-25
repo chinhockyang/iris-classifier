@@ -15,8 +15,31 @@ This Python script contains a setup of a Plotly Dash dashboard application. Pres
 | Comparison across Iris Types | Visualise the distribution and differences of the various attributes and characteristics of the Iris types |
 | New Data Prediction | Provide value of the attributes of the new Iris data, and view the predicted Iris type and 10 most similar existing Iris data to the input Iris data |
  
-The application has been deployed (temporary) on https://hy-garden-dashboard.herokuapp.com/ for quick access and demonstration.
- 
+<em>Data Exploration</em>
+<span>
+		<img src="https://github.com/chinhockyang/iris-classifier/blob/main/assets/Dataset%20Exploration.png" alt="Home Page" border="10" />
+</span>
+
+<em>Comparison Across Iris Types</em>
+<span>
+		<img src="https://github.com/chinhockyang/iris-classifier/blob/main/assets/Species%20Comparison.png" alt="Home Page" border="10" />
+</span>
+
+<em>New Data Species Prediction</em>
+<span>
+		<img src="https://github.com/chinhockyang/iris-classifier/blob/main/assets/Model%20Prediction.png" alt="Home Page" border="10" />
+</span>
+
+<em>New Data Species Prediction</em>
+<span>
+		<img src="https://github.com/chinhockyang/iris-classifier/blob/main/assets/Model%20Prediction.png" alt="Home Page" border="10" />
+</span>
+
+<em>New Data Comparison to Existing Data</em>
+<span>
+		<img src="https://github.com/chinhockyang/iris-classifier/blob/main/assets/Similarity%20Comparison.png" alt="Home Page" border="10" />
+</span>
+
 ## Environment Setup
 This project uses local Virtual Environment to manage project dependencies. [(environment creation and activation guide)](https://docs.python.org/3/tutorial/venv.html). To setup the repository, Python (version 3.8 and above) and Pip (package installer) will need to be first installed on the local machine.
 
